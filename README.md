@@ -16,7 +16,7 @@
 
 <h1>雪夜梦道</h1>
 
-<p>Blender · AI · IDC</p>
+<p> AI · IDC</p>
 
 <p>欢迎来到我的个人网站。</p>
 
