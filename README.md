@@ -1,29 +1,28 @@
 # abaab-z.github.io
-index.html
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 <head>
-<title>我的个人网站</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<style>
-body {
-    text-align: center;
-    margin-top: 100px;
-    font-family: Arial;
-}
+    <title>梦道雪夜</title>
 
-h1 {
-    color: #333;
-}
-</style>
-
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<h1>你好，我的网站</h1>
+<div class="card">
 
-<p>这是我用 GitHub 创建的第一个网页</p>
+<h1>梦道雪夜</h1>
+
+<p>Blender · AI · IDC</p>
+
+<p>欢迎来到我的个人网站。</p>
+
+<button>联系我</button>
+
+</div>
 
 </body>
 </html>
